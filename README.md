@@ -21,5 +21,6 @@ HTML: Provides the structure for the application interface.
 CSS: Styles the application, including the slider and options for character types, ensuring a visually appealing and user-friendly interface.
 
 
-![image](https://github.com/user-attachments/assets/4f37e3cb-d089-4140-942f-27a56ebe11d1)
 
+
+![image](https://github.com/user-attachments/assets/6a473a1f-a406-48b2-8071-08b7f4218471)
