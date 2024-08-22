@@ -22,5 +22,6 @@ CSS: Styles the application, including the slider and options for character type
 
 
 
+### HOME PAGE!
 
 ![image](https://github.com/user-attachments/assets/6a473a1f-a406-48b2-8071-08b7f4218471)
