@@ -8,7 +8,6 @@ Dynamic Password Length: A slider to dynamically adjust the desired password len
 Character Type Selection: Options to include or exclude uppercase letters, lowercase letters, numbers, and symbols in the generated password.
 Real-time Password Generation: The password is generated and displayed in real-time as the criteria are adjusted.
 Copy to Clipboard: A convenient button to copy the generated password to the clipboard.
-
 Responsive Design: The application is designed to be responsive, ensuring it works well on various devices, including desktops, tablets, and mobile devices.
 
 ### Technologies Used
