@@ -1,7 +1,6 @@
 ### Password Generator Application
 
 ### Overview:
-
 This project is a versatile Password Generator application built using JavaScript, HTML, and CSS. It allows users to create strong, random passwords based on customizable criteria, including password length, and the inclusion of uppercase letters, lowercase letters, numbers, and symbols.
 ### Features:
 Dynamic Password Length: A slider to dynamically adjust the desired password length.
@@ -11,11 +10,9 @@ Copy to Clipboard: A convenient button to copy the generated password to the cli
 Responsive Design: The application is designed to be responsive, ensuring it works well on various devices, including desktops, tablets, and mobile devices.
 
 ### Technologies Used
-
 JavaScript: Handles the logic for generating the password based on the selected criteria.
 HTML: Provides the structure for the application interface.
 CSS: Styles the application, including the slider and options for character types, ensuring a visually appealing and user-friendly interface.
 
 ### HOME PAGE!
-
 ![image](https://github.com/user-attachments/assets/6a473a1f-a406-48b2-8071-08b7f4218471)
